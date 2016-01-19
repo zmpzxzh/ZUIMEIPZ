@@ -27,7 +27,7 @@
 ### 模仿网站
 1. 魅族官网设计  ： [魅族](http://www.meizu.com/index.html)
 2. Zara 中国 : [Zara](http://www.zara.cn/cn/)
-3. 
+3. ZEALER 中国 [ZEALER](http://www.zealer.com/)（逻辑比较切合我们）
  
 
 
