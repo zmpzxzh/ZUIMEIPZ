@@ -28,7 +28,7 @@
 1. 魅族官网设计  ： [魅族](http://www.meizu.com/index.html)
 2. Zara 中国 : [Zara](http://www.zara.cn/cn/)
 3. ZEALER 中国 [ZEALER](http://www.zealer.com/)（逻辑比较切合我们）
- 
+4. 慕课网 http://www.imooc.com/
 
 
 >  **提示：**以上由我们两人收集下星期五前提交`10`个模仿网站。每人`5`个。后期筛选；要求，简介大方的展现图片就好，简易的逻辑，宽屏，目前不适配移动端。 有模仿的网站省去我们设计的缺乏，和进度的无目的性；
